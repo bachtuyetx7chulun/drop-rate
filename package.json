@@ -1,6 +1,6 @@
 {
   "name": "drop-rate",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "The solution for drop rates !",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -15,8 +15,17 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/bachtuyetx7chulun/drop-rate.git"
   },
+  "keywords": [
+    "drop",
+    "rate",
+    "drop-rate",
+    "gacha",
+    "gacha-rate",
+    "statistics",
+    "rpg"
+  ],
   "author": "Medium_Hieu",
   "license": "MIT",
   "devDependencies": {
